@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 953049951,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 182325625,
+          "is_bot": false,
+          "first_name": "Vitaliq",
+          "username": "vitaliq",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 182325625,
+          "first_name": "Vitaliq",
+          "username": "vitaliq",
+          "type": "private"
+        },
+        "date": 1645794804,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
